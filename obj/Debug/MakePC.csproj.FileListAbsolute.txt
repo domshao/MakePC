@@ -1,0 +1,57 @@
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\bin\Debug\MakePC.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\bin\Debug\MakePC.exe
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\bin\Debug\MakePC.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\obj\Debug\MakePC.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\obj\Debug\MakePC.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\obj\Debug\MakePC.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\obj\Debug\MakePC.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\obj\Debug\MakePC.exe
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\obj\Debug\MakePC.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MakePC\MakePC\bin\Debug\MySql.Data.dll
+G:\MakePC\MakePC\bin\Debug\MakePC.exe.config
+G:\MakePC\MakePC\obj\Debug\MakePC.exe
+G:\MakePC\MakePC\obj\Debug\MakePC.pdb
+G:\MakePC\MakePC\bin\Debug\MakePC.exe
+G:\MakePC\MakePC\bin\Debug\MakePC.pdb
+G:\MakePC\MakePC\obj\Debug\MakePC.csprojResolveAssemblyReference.cache
+G:\MakePC\MakePC\obj\Debug\MakePC.Properties.Resources.resources
+G:\MakePC\MakePC\obj\Debug\MakePC.csproj.GenerateResource.Cache
+G:\MakePC\MakePC\obj\Debug\MakePC.StartForm.resources
+G:\MakePC\MakePC\obj\Debug\MakePC.WorkForm.resources
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.StartForm.resources
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.Properties.Resources.resources
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.WorkForm.resources
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.exe
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.pdb
+C:\Users\Admin\Desktop\MakePC\MakePC\bin\Debug\MakePC.exe.config
+C:\Users\Admin\Desktop\MakePC\MakePC\bin\Debug\MakePC.exe
+C:\Users\Admin\Desktop\MakePC\MakePC\bin\Debug\MakePC.pdb
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.NewOrder.resources
+G:\Работа\MakePC\MakePC\bin\Debug\MakePC.exe.config
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.exe
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.pdb
+G:\Работа\MakePC\MakePC\bin\Debug\MakePC.exe
+G:\Работа\MakePC\MakePC\bin\Debug\MakePC.pdb
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.csprojResolveAssemblyReference.cache
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.NewOrder.resources
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.StartForm.resources
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.Properties.Resources.resources
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.WorkForm.resources
+G:\Работа\MakePC\MakePC\obj\Debug\MakePC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MakePC\MakePC\obj\Debug\MakePC.csproj.CopyComplete
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\bin\Debug\MakePC.exe.config
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\bin\Debug\MakePC.exe
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\bin\Debug\MakePC.pdb
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.NewOrder.resources
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.StartForm.resources
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.Properties.Resources.resources
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.WorkForm.resources
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.csproj.CopyComplete
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.exe
+C:\Users\Admin\Desktop\MakePC — копия\MakePC\obj\Debug\MakePC.pdb

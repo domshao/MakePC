@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MakePC.CC">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="15.75" Y="8.812" />
+        <Point X="15.53" Y="8.812" />
+        <Point X="15.53" Y="8.188" />
+        <Point X="10.75" Y="8.188" />
+        <Point X="10.75" Y="7.05" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQAAAAAAAAAAAAAAoEgAAEAgAAQAAAQQgA=</HashCode>
+      <FileName>CC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.Client">
+    <Position X="18" Y="8.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" FixedFromPoint="true">
+      <Path>
+        <Point X="17.25" Y="10.062" />
+        <Point X="18" Y="10.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAAAABAAAQAgAAAAAAIAAAAAAAgA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.CPU">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="16.938" Y="8.5" />
+        <Point X="16.938" Y="7.501" />
+        <Point X="17.75" Y="7.501" />
+        <Point X="17.75" Y="7.05" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAgQAAAAAAAAAAAAAAoEgAAAAgAIQAAAAQgA=</HashCode>
+      <FileName>CPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.CS">
+    <Position X="20.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="17.25" Y="8.812" />
+        <Point X="17.545" Y="8.812" />
+        <Point X="17.545" Y="7.882" />
+        <Point X="21.25" Y="7.882" />
+        <Point X="21.25" Y="7.05" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQAAAAAAQAAAAAAApEgAAAAgAAQAAAAQgA=</HashCode>
+      <FileName>CS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.Database">
+    <Position X="15.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAABAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.GPU">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="15.75" Y="8.938" />
+        <Point X="15.352" Y="8.938" />
+        <Point X="15.352" Y="8.343" />
+        <Point X="9" Y="8.343" />
+        <Point X="9" Y="7.05" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAgAAQAAAAAAAAAAAAAAoEgAAAAoAAQAAAAQgA=</HashCode>
+      <FileName>GPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.HDD">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.875" Y="8.5" />
+        <Point X="15.875" Y="7.99" />
+        <Point X="12.625" Y="7.99" />
+        <Point X="12.625" Y="7.05" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAEAAAAAAQAAAAAAAAAAAAAAoEgAAAAgAAQAAQAQgA=</HashCode>
+      <FileName>HDD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.MB">
+    <Position X="18.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="17.125" Y="8.5" />
+        <Point X="17.125" Y="8.406" />
+        <Point X="17.125" Y="8.406" />
+        <Point X="17.125" Y="7.635" />
+        <Point X="19.5" Y="7.635" />
+        <Point X="19.5" Y="7.242" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQAAAAAAAAAAAAAAoEgACAAiAAQAAAAQhA=</HashCode>
+      <FileName>MB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.NewOrder" Collapsed="true">
+    <Position X="30" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8SAAEAAIACAAGDARAACAAAECAMy7RAAAwPgPBAAARAA=</HashCode>
+      <FileName>NewOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.Order">
+    <Position X="20.75" Y="8.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.875" Y="10.44" />
+        <Point X="16.875" Y="11.25" />
+        <Point X="20.75" Y="11.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAhAAEBAAAQAAAAAAAAAAgAAgQ=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Client" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MakePC.PB">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="16.062" Y="8.5" />
+        <Point X="16.062" Y="7.515" />
+        <Point X="14.25" Y="7.515" />
+        <Point X="14.25" Y="7.05" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQAAAAAAAAAAAAAAoEhAQAAgAAQAAAAQgA=</HashCode>
+      <FileName>PB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.PC">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.5" Y="8.5" />
+        <Point X="16.5" Y="7.369" />
+        <Point X="16.5" Y="7.369" />
+        <Point X="16.5" Y="7.252" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="PB" Type="MakePC.PB" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.312" Y="3.25" />
+        <Point X="15.312" Y="3.056" />
+        <Point X="14.625" Y="3.056" />
+        <Point X="14.625" Y="3.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.66" Y="-0.019" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="HDD" Type="MakePC.HDD" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.438" Y="3.25" />
+        <Point X="15.438" Y="2.958" />
+        <Point X="12.5" Y="2.958" />
+        <Point X="12.5" Y="3.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="CC" Type="MakePC.CC" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.562" Y="3.25" />
+        <Point X="15.562" Y="2.876" />
+        <Point X="10.75" Y="2.876" />
+        <Point X="10.75" Y="3.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="GPU" Type="MakePC.GPU" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.688" Y="3.25" />
+        <Point X="15.688" Y="2.766" />
+        <Point X="9" Y="2.766" />
+        <Point X="9" Y="3.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="CPU" Type="MakePC.CPU" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.688" Y="3.25" />
+        <Point X="16.688" Y="3.059" />
+        <Point X="17.75" Y="3.059" />
+        <Point X="17.75" Y="3.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.611" Y="0.03" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="MB" Type="MakePC.MB" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.562" Y="3.25" />
+        <Point X="16.562" Y="2.986" />
+        <Point X="19.562" Y="2.986" />
+        <Point X="19.562" Y="3.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.096" Y="0.034" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="CS" Type="MakePC.CS" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.438" Y="3.25" />
+        <Point X="16.438" Y="2.905" />
+        <Point X="21.25" Y="2.905" />
+        <Point X="21.25" Y="3.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="RAM" Type="MakePC.RAM" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.312" Y="3.25" />
+        <Point X="16.312" Y="2.757" />
+        <Point X="23" Y="2.757" />
+        <Point X="23" Y="3.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAQAAQAAAAAACIAAAUAAAgAAAAAAABMgg=</HashCode>
+      <FileName>PC.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PB" />
+      <Property Name="HDD" />
+      <Property Name="CC" />
+      <Property Name="GPU" />
+      <Property Name="CPU" />
+      <Property Name="MB" />
+      <Property Name="CS" />
+      <Property Name="RAM" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MakePC.Program" Collapsed="true">
+    <Position X="31.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.RAM">
+    <Position X="22.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="17.25" Y="8.938" />
+        <Point X="17.729" Y="8.938" />
+        <Point X="17.729" Y="8.053" />
+        <Point X="23" Y="8.053" />
+        <Point X="23" Y="7.05" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAACAQAAAAAAAAAAAAAAoEgAAAAgAAQAAAAYgA=</HashCode>
+      <FileName>RAM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.Service">
+    <Position X="12" Y="8.5" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.062" Y="10.44" />
+        <Point X="16.062" Y="10.938" />
+        <Point X="13.5" Y="10.938" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAQABAAAAUAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.StartForm" Collapsed="true">
+    <Position X="31.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAACAACACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.User">
+    <Position X="13.75" Y="8.5" Width="1.5" />
+    <InheritanceLine Type="MakePC.Database" FixedFromPoint="true">
+      <Path>
+        <Point X="15.75" Y="9.875" />
+        <Point X="15.25" Y="9.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAgEAEAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.WorkForm" Collapsed="true">
+    <Position X="33.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/3+Z3v/LYT4sbpO57AfxfmPS9Oe/fZL/+/1bx1JZ3uw=</HashCode>
+      <FileName>WorkForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.Properties.Resources" Collapsed="true">
+    <Position X="33.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakePC.Properties.Settings" Collapsed="true">
+    <Position X="30" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
